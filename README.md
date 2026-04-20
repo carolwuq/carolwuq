@@ -1,4 +1,4 @@
-# # Hey, I’m Carol 👋
+# Hey, I’m Carol 👋
 
 I build things. I break things. I try new things. Then I build them better.
 
@@ -18,8 +18,8 @@ It worked out somehow.
 
 Before engineering, I was in HR during a wild-growth phase:
 
-* We went from **1 boutique on the Upper East Side**
-* → to **boutiques cover all hit area in NYC**
+* It went from **1 boutique on the Upper East Side**
+* → to **boutiques cover all hit areas in NYC**
 * → then expanded across the East Coast, West Coast, and internationally in 4 years
 
 I learned how fast companies scale… and how messy humans make it (in the best way).
