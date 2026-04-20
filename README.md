@@ -16,7 +16,7 @@ It worked out somehow.
 
 ---
 
-Before engineering, I was in HR during a wild-growth phase:
+Before engineering, I was in **HR** during a wild-growth phase:
 
 * It went from **1 boutique on the Upper East Side**
 * → to **boutiques cover all hit areas in NYC**
@@ -40,31 +40,11 @@ I still think like a product person, but I build like an engineer.
 
 ---
 
-## 🧠 What I believe
-
-* The best ideas usually sound a little weird at first
-* Shipping beats perfecting
-* Understanding people matters more than frameworks
-* Curiosity is a skill, not a personality trait
-
----
-
 ## 🧪 What I like doing
 
 * Testing random ideas just to see what happens
 * Building things end-to-end
-* Thinking about how users *actually* behave (not how we assume they behave)
 * Making complex systems feel simple
-
----
-
-## 👩‍👧 Life outside of code
-
-I’m also a mom of 2.
-
-So yes — I debug React Native apps, scale systems, and also negotiate snack distribution policies.
-
-Sometimes in the same hour.
 
 ---
 
